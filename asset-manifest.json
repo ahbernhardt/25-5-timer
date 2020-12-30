@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/25-5-timer/static/css/main.c5d8d1a5.chunk.css",
+    "main.js": "/25-5-timer/static/js/main.779db7ee.chunk.js",
+    "main.js.map": "/25-5-timer/static/js/main.779db7ee.chunk.js.map",
+    "runtime-main.js": "/25-5-timer/static/js/runtime-main.4f23403d.js",
+    "runtime-main.js.map": "/25-5-timer/static/js/runtime-main.4f23403d.js.map",
+    "static/js/2.36cf7faa.chunk.js": "/25-5-timer/static/js/2.36cf7faa.chunk.js",
+    "static/js/2.36cf7faa.chunk.js.map": "/25-5-timer/static/js/2.36cf7faa.chunk.js.map",
+    "index.html": "/25-5-timer/index.html",
+    "precache-manifest.a59b0572bf6388c991f3d6c05eb9feeb.js": "/25-5-timer/precache-manifest.a59b0572bf6388c991f3d6c05eb9feeb.js",
+    "service-worker.js": "/25-5-timer/service-worker.js",
+    "static/css/main.c5d8d1a5.chunk.css.map": "/25-5-timer/static/css/main.c5d8d1a5.chunk.css.map",
+    "static/js/2.36cf7faa.chunk.js.LICENSE.txt": "/25-5-timer/static/js/2.36cf7faa.chunk.js.LICENSE.txt",
+    "static/media/beep.mp3": "/25-5-timer/static/media/beep.342c532d.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f23403d.js",
+    "static/js/2.36cf7faa.chunk.js",
+    "static/css/main.c5d8d1a5.chunk.css",
+    "static/js/main.779db7ee.chunk.js"
+  ]
+}
