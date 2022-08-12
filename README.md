@@ -2,7 +2,7 @@
 
 >This is the last project of [FreeCodeCamp](https://www.freecodecamp.org/learn/front-end-libraries/front-end-libraries-projects/build-a-25--5-clock)  Front End Libraries Certification -  25+5 - and it built with React.
 
-Check for [Live Demo](https://anguyen0208.github.io/25-5-timer/)
+Check for [Live Demo](https://ahbernhardt.github.io/25-5-timer/)
 
 ## Screenshot
 
@@ -18,7 +18,7 @@ Check for [Live Demo](https://anguyen0208.github.io/25-5-timer/)
 ## Usage
 
 ```sh
-git clone https://github.com/anguyen0208/25-5-timer.git
+git clone https://github.com/ahbernhardt/25-5-timer.git
 cd 25-5-timer
 
 # install dependencies
